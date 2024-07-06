@@ -7,7 +7,7 @@ PS: The katakana text says "custom keyboard"
 ### [base](https://github.com/JhonatanFerrer/CustomKBDeskmats/blob/main/base.png)
 ![imagen](https://github.com/JhonatanFerrer/CustomKBDeskmats/assets/111335841/8b0db913-5b2e-43ea-af25-d3a54cce18d9)
 
-### [Catppuccin Mocha]([https://github.com/JhonatanFerrer/CustomKBDeskmats/blob/main/Catpuccin_Mocha.png))
+### [Catppuccin Mocha]([https://github.com/JhonatanFerrer/CustomKBDeskmats/blob/main/Catpuccin_Mocha.png)
 ![imagen](https://github.com/JhonatanFerrer/CustomKBDeskmats/assets/111335841/2a9b2b1a-3ad9-4535-a69b-78ef6a051753)
 
 ### [Gruvbox](https://github.com/JhonatanFerrer/CustomKBDeskmats/blob/main/Gruvbox.png)
@@ -16,7 +16,7 @@ PS: The katakana text says "custom keyboard"
 ### [Nord](https://github.com/JhonatanFerrer/CustomKBDeskmats/blob/main/Nord.png)
 ![imagen](https://github.com/JhonatanFerrer/CustomKBDeskmats/assets/111335841/a896fdf2-3b31-4b46-b1e3-f6bdfd08ebc7)
 
-### [One Dark Pro]([https://github.com/JhonatanFerrer/CustomKBDeskmats/blob/main/OneDarkPro.png)
+### [One Dark Pro](https://github.com/JhonatanFerrer/CustomKBDeskmats/blob/main/OneDarkPro.png)
 ![imagen](https://github.com/JhonatanFerrer/CustomKBDeskmats/assets/111335841/81fdc651-c705-44a4-81c8-2bdaac900eac)
 
 ### [Tokyo Night](https://github.com/JhonatanFerrer/CustomKBDeskmats/blob/main/TokyoNight.png)
