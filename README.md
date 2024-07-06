@@ -17,7 +17,7 @@ PS: The katakana text says "custom keyboard"
 ![imagen](https://github.com/JhonatanFerrer/CustomKBDeskmats/assets/111335841/a896fdf2-3b31-4b46-b1e3-f6bdfd08ebc7)
 
 ### [One Dark Pro](https://github.com/JhonatanFerrer/CustomKBDeskmats/blob/main/OneDarkPro.png)
-![imagen](https://github.com/JhonatanFerrer/CustomKBDeskmats/assets/111335841/81fdc651-c705-44a4-81c8-2bdaac900eac)
+![imagen](https://github.com/JhonatanFerrer/CustomKBDeskmats/assets/111335841/26880363-f3c5-4972-ac24-a363d1b2e304)
 
 ### [Tokyo Night](https://github.com/JhonatanFerrer/CustomKBDeskmats/blob/main/TokyoNight.png)
 ![imagen](https://github.com/JhonatanFerrer/CustomKBDeskmats/assets/111335841/16763979-d603-42f1-be27-0f8dff524ffb)
