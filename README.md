@@ -13,6 +13,9 @@ PS: The katakana text says "custom keyboard"
 ### Gruvbox
 ![imagen](https://github.com/JhonatanFerrer/CustomKBDeskmats/assets/111335841/9c7201d2-9470-45c2-accb-577391737098)
 
+### Nord
+![imagen](https://github.com/JhonatanFerrer/CustomKBDeskmats/assets/111335841/a896fdf2-3b31-4b46-b1e3-f6bdfd08ebc7)
+
 ### One Dark Pro
 ![imagen](https://github.com/JhonatanFerrer/CustomKBDeskmats/assets/111335841/81fdc651-c705-44a4-81c8-2bdaac900eac)
 
