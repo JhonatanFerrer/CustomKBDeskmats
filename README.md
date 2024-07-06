@@ -7,7 +7,7 @@ PS: The katakana text says "custom keyboard"
 ### [base](https://github.com/JhonatanFerrer/CustomKBDeskmats/blob/main/base.png)
 ![imagen](https://github.com/JhonatanFerrer/CustomKBDeskmats/assets/111335841/8b0db913-5b2e-43ea-af25-d3a54cce18d9)
 
-### [Catppuccin Mocha]([https://github.com/JhonatanFerrer/CustomKBDeskmats/blob/main/Catpuccin_Mocha.png)
+### [Catppuccin Mocha](https://github.com/JhonatanFerrer/CustomKBDeskmats/blob/main/Catpuccin_Mocha.png)
 ![imagen](https://github.com/JhonatanFerrer/CustomKBDeskmats/assets/111335841/2a9b2b1a-3ad9-4535-a69b-78ef6a051753)
 
 ### [Gruvbox](https://github.com/JhonatanFerrer/CustomKBDeskmats/blob/main/Gruvbox.png)
